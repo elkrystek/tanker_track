@@ -1,1 +1,4 @@
-flask
+google-cloud-storage
+google-cloud-bigquery
+websocket-client
+requests
